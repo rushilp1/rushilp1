@@ -1,5 +1,5 @@
 <!-- SECTION: Introduction -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Introduction">
@@ -20,7 +20,7 @@
 ---
 
 <!-- SECTION: About Me -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="About">
@@ -29,7 +29,10 @@
     </h1>
   </summary>
 
-  <!-- TODO: Insert my image, align right -->
+  <img src="./Images/me.jpeg" 
+       alt="Hey, that's me!" 
+       width="20%"
+       align="right">  
 
   Hello again! I am Rushil, a graduate student (MS CS) at the [University of Florida](https://www.ufl.edu/). A decade ago, I accidentally stumbled upon Chrome's DevTools and found out that I held the power to modify any piece of content on any webpage. Although I had been fascinated by computers before, this discovery sparked a newfound passion and curiosity inside me about the inner workings of a computer. Ever since, I have been tinkering with computer code of all shapes and sizes for fun -- even built an audio workstation software (in MATLAB, of all things, check out my <a rel="noopener noreferrer" target="_blank" href="#Projects">featured projects</a>!)
 
@@ -49,7 +52,7 @@
   </summary>
 
   <!-- SUB-SECTION: Experience 1 -->
-  <details>
+  <details open>
     <summary>
       <table align="center">
         <tr>
@@ -68,6 +71,7 @@
       </table>
     </summary>
 
+  <!-- TODO: Add Links to Tech -->
   <ul>
     <li>
       Spearheaded a firm’s transition to a paperless practice by implementing a faster and safer web-based inventory management and accounting system, improving employee productivity by 40% and reducing accounting errors by 75%.
@@ -101,7 +105,7 @@
 ---
 
 <!-- SECTION: Projects -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Projects">
@@ -116,7 +120,10 @@
       <h2>TwittEr: Twitter in Erlang</h2>
     </summary>
     
-  <!-- TODO: Insert Project Image, align right -->
+  <img src="./Images/TwittEr.png" 
+       alt="I made a Twitter clone in Erlang!" 
+       width="50%"
+       align="right">
 
   <ul>
     <li>
@@ -138,7 +145,10 @@
       <h2>MinEr: Miner in Erlang</h2>
     </summary>
     
-  <!-- TODO: Insert Project Image, align right -->
+  <img src="./Images/MinEr.png" 
+       alt="I made a crypto miner in Erlang!" 
+       width="50%"
+       align="right">
 
   <ul>
     <li>
@@ -160,7 +170,10 @@
       <h2>A.M.P: Audio Manipulation Program</h2>
     </summary>
     
-  <!-- TODO: Insert Project Image, align right -->
+  <img src="./Images/AMP.png" 
+       alt="I made an audio workstation software in MATLAB!" 
+       width="50%"
+       align="right">
 
   <ul>
     <li>
@@ -180,7 +193,7 @@
 ---
 
 <!-- SECTION: Certifications -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Certificates">
@@ -189,14 +202,33 @@
     </h1>
   </summary>
 
-  <!-- TODO: Insert certificates, align center, width=33% -->
+  <!-- TODO: Replace Cert links with Repo Links, after creating appropriate repos for all three -->
+  <p align="center">
+    <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
+      <img src="./Images/FCC_MachineLearningWithPython_Certificate.png" 
+           alt="Certificate awarded after completing FreeCodeCamp's Machine Learning Course!" 
+           width="32%">
+    </a>
+    &nbsp;
+    <a href="https://freecodecamp.org/certification/RushilPatel/data-analysis-with-python-v7">
+      <img src="./Images/FCC_DataAnalysisWithPython_Certificate.png" 
+           alt="Certificate awarded after completing FreeCodeCamp's Data Analysis Course!" 
+           width="32%">
+    </a>
+    &nbsp;
+    <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
+      <img src="./Images/FCC_DataVisualization_Certificate.png" 
+           alt="Certificate awarded after completing FreeCodeCamp's Data Visualization Course!" 
+           width="32%">
+    </a>
+  </p>
   
 </details>
 
 ---
 
 <!-- SECTION: Tools & Technologies -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Technologies">
@@ -205,7 +237,6 @@
     </h1>
   </summary>
 
-  <!-- TODO: Insert Tools & Tech, separated in their categories -->
   <h2>Languages</h2>
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -286,7 +317,8 @@
 </details>
 
 ---
-  
+
+  <!-- TODO: Add a nice footer to this, Add Gmail, LinkedIn, Replit, CodePen, and Portfolio Links-->
   ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
