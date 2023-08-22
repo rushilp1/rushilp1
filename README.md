@@ -202,7 +202,6 @@
     </h1>
   </summary>
 
-  <!-- TODO: Replace Cert links with Repo Links, after creating appropriate repos for all three -->
   <p align="center">
     <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
       <img src="./Images/FCC_MachineLearningWithPython_Certificate.png" 
@@ -219,6 +218,27 @@
     <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
       <img src="./Images/FCC_DataVisualization_Certificate.png" 
            alt="Certificate awarded after completing FreeCodeCamp's Data Visualization Course!" 
+           width="32%">
+    </a>
+  </p>
+  
+  <!-- TODO: Insert Repo Links-->
+  <p align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+           alt="The Coursework Repository URL for FreeCodeCamp's Machine Learning Course!" 
+           width="32%">
+    </a>
+    &nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+           alt="The Coursework Repository URL for FreeCodeCamp's Data Analysis Course!" 
+           width="32%">
+    </a>
+    &nbsp;
+    <a href="#">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+           alt="The Coursework Repository URL for FreeCodeCamp's Data Visualization Course!" 
            width="32%">
     </a>
   </p>
