@@ -198,7 +198,7 @@
   <summary>
     <h1>
       <a id="Certificates">
-        Some Certificates I've Received 📜
+        Some Certificates I've Been Awarded 📜
       </a>
     </h1>
   </summary>
