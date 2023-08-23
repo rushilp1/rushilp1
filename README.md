@@ -15,6 +15,8 @@
   <h3>My name is Rushil Patel and I create awesome web apps!</h3>
   
   <h3>I’m a <a rel="noopener noreferrer" target="_blank" href="#Experience">Full-Stack Developer experienced in designing and building highly performant front-end and back-end systems for the Internet</a>.</h3>
+
+  <h3>I get a bang out of opportunities where I can join highly creative people in thinking through and developing innovative solutions to complex problems, as that's what I enjoy the most about software engineering.</h3>
 </details>
 
 ---
