@@ -1,5 +1,5 @@
 <!-- SECTION: Introduction -->
-<details open>
+<details>
   <summary>
     <h1>
       <a id="Introduction">
@@ -20,7 +20,7 @@
 ---
 
 <!-- SECTION: About Me -->
-<details open>
+<details>
   <summary>
     <h1>
       <a id="About">
@@ -42,7 +42,7 @@
 ---
 
 <!-- SECTION: Work Experiences -->
-<details open>
+<details>
   <summary>
     <h1>
       <a id="Experience">
@@ -52,7 +52,7 @@
   </summary>
 
   <!-- SUB-SECTION: Experience 1 -->
-  <details open>
+  <details>
     <summary>
       <table align="center">
         <tr>
@@ -71,25 +71,24 @@
       </table>
     </summary>
 
-  <!-- TODO: Add Links to Tech -->
   <ul>
     <li>
       Spearheaded a firm’s transition to a paperless practice by implementing a faster and safer web-based inventory management and accounting system, improving employee productivity by 40% and reducing accounting errors by 75%.
     </li>
     <li>
-      Reduced front-end development time by 30% and improved code maintainability by creating modular, reusable Material UI components using React.js and TypeScript.
+      Reduced front-end development time by 30% and improved code maintainability by creating modular, reusable <a href="https://mui.com/">Material UI</a> components using <a href="https://react.dev/">React.js</a> and TypeScript.
     </li>
     <li>
-      Achieved sub-second (< 1 sec) page load times by optimizing the website’s performance (deployed on Vercel) with the help of lazy loading and code-splitting techniques.
+      Achieved sub-second (< 1 sec) page load times by optimizing the website’s performance (deployed on <a href="https://vercel.com/">Vercel</a>) with the help of lazy loading and code-splitting techniques.
     </li>
     <li>
-      Bettered average MongoDB query time from 2.5 to 1.1 seconds through pagination, indexes, projections, and other query optimization and server caching techniques (using Node.js and Express.js, deployed on Heroku).
+      Bettered average <a href="https://www.mongodb.com/">MongoDB</a> query time from 2.5 to 1.1 seconds through pagination, indexes, projections, and other query optimization and server caching techniques (using <a href="https://nodejs.org/">Node.js</a> and <a href="https://expressjs.com/">Express.js</a>, deployed on <a href="https://www.heroku.com/">Heroku</a>).
     </li>
     <li>
-      Decreased the total testing time in half and produced more reliable results by automating front-end tests (through Jest, Puppeteer) and back-end tests (through Mocha, Chai).
+      Decreased the total testing time in half and produced more reliable results by automating front-end tests (through <a href="https://jestjs.io/">Jest</a>, <a href="https://pptr.dev/">Puppeteer</a>) and back-end tests (through <a href="https://mochajs.org/">Mocha</a>, <a href="https://www.chaijs.com/">Chai</a>).
     </li>
     <li>
-      Eliminated most production issues and reduced deployment time by 65% by streamlining the build, test, and deploy pipelines (using GitHub Actions, Vercel, and Heroku).
+      Eliminated most production issues and reduced deployment time by 65% by streamlining the build, test, and deploy pipelines (using <a href="https://github.com/features/actions">GitHub Actions</a>, <a href="https://vercel.com/">Vercel</a>, and <a href="https://www.heroku.com/">Heroku</a>).
     </li>
     <li>
       Adopted best practices from Agile and CI/CD, resulting in faster feedback loops and tripling the frequency of releases.
@@ -105,7 +104,7 @@
 ---
 
 <!-- SECTION: Projects -->
-<details open>
+<details>
   <summary>
     <h1>
       <a id="Projects">
@@ -115,7 +114,7 @@
   </summary>
 
   <!-- SUB-SECTION: Project 1 -->
-  <details open>
+  <details>
     <summary>
       <h2>TwittEr: Twitter in Erlang</h2>
     </summary>
@@ -140,7 +139,7 @@
   </details>
 
   <!-- SUB-SECTION: Project 2 -->
-  <details open>
+  <details>
     <summary>
       <h2>MinEr: Miner in Erlang</h2>
     </summary>
@@ -165,7 +164,7 @@
   </details>
 
   <!-- SUB-SECTION: Project 3 -->
-  <details open>
+  <details>
     <summary>
       <h2>A.M.P: Audio Manipulation Program</h2>
     </summary>
@@ -193,7 +192,7 @@
 ---
 
 <!-- SECTION: Certifications -->
-<details open>
+<details>
   <summary>
     <h1>
       <a id="Certificates">
@@ -203,43 +202,55 @@
   </summary>
 
   <p align="center">
-    <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
-      <img src="./Images/FCC_MachineLearningWithPython_Certificate.png" 
-           alt="Certificate awarded after completing FreeCodeCamp's Machine Learning Course!" 
-           width="32%">
-    </a>
+    <img src="./Images/FCC_MachineLearningWithPython_Certificate.png" 
+         alt="Certificate awarded after completing FreeCodeCamp's Machine Learning Course!" 
+         width="32%">
     &nbsp;
-    <a href="https://freecodecamp.org/certification/RushilPatel/data-analysis-with-python-v7">
-      <img src="./Images/FCC_DataAnalysisWithPython_Certificate.png" 
-           alt="Certificate awarded after completing FreeCodeCamp's Data Analysis Course!" 
-           width="32%">
-    </a>
+    <img src="./Images/FCC_DataAnalysisWithPython_Certificate.png" 
+         alt="Certificate awarded after completing FreeCodeCamp's Data Analysis Course!" 
+         width="32%">
     &nbsp;
-    <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
-      <img src="./Images/FCC_DataVisualization_Certificate.png" 
-           alt="Certificate awarded after completing FreeCodeCamp's Data Visualization Course!" 
-           width="32%">
-    </a>
+    <img src="./Images/FCC_DataVisualization_Certificate.png" 
+         alt="Certificate awarded after completing FreeCodeCamp's Data Visualization Course!" 
+         width="32%">
   </p>
   
   <!-- TODO: Insert Repo Links-->
   <p align="center">
+    <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
+      <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
+           alt="FreeCodeCamp Certification URL for FreeCodeCamp's Machine Learning Course!"
+           width="19%">
+    </a>
+    &nbsp;
     <a href="#">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Machine Learning Course!" 
-           width="32%">
+           width="12%">
+    </a>
+    &nbsp;
+    <a href="https://freecodecamp.org/certification/RushilPatel/data-analysis-with-python-v7">
+      <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
+           alt="FreeCodeCamp Certification URL for FreeCodeCamp's Data Analysis Course!"
+           width="19%">
     </a>
     &nbsp;
     <a href="#">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Analysis Course!" 
-           width="32%">
+           width="12%">
+    </a>
+    &nbsp;
+    <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
+      <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
+           alt="FreeCodeCamp Certification URL for FreeCodeCamp's Machine Learning Course!"
+           width="19%">
     </a>
     &nbsp;
     <a href="#">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Visualization Course!" 
-           width="32%">
+           width="12%">
     </a>
   </p>
   
@@ -248,7 +259,7 @@
 ---
 
 <!-- SECTION: Tools & Technologies -->
-<details open>
+<details>
   <summary>
     <h1>
       <a id="Technologies">
@@ -338,7 +349,32 @@
 
 ---
 
-  <!-- TODO: Add a nice footer to this, Add Gmail, LinkedIn, Replit, CodePen, and Portfolio Links-->
-  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+  <p align="center"> 
+    If you want to know more about me or my work, check out the links below: 
+  </p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/rushillpatell">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+           alt="My LinkedIn" 
+           width="26%">
+    </a>
+    &nbsp;
+    <a href="https://replit.com/@RushilPatel11">
+      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" 
+           alt="My Replit" 
+           width="22%">
+    </a>
+    &nbsp;
+    <a href="https://codepen.io/rushilp1">
+      <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" 
+           alt="My Codepen" 
+           width="26%">
+    </a>
+    &nbsp;
+    <a href="mailto:rushillpatell@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+           alt="My Gmail" 
+           width="21%">
+    </a>
+  </p>
