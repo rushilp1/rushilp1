@@ -215,7 +215,7 @@
          width="32%">
   </p>
   
-  <!-- TODO: Insert Repo Links-->
+  <!-- TODO: Insert Repo Links in GitHub Images-->
   <p align="center">
     <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
@@ -349,8 +349,9 @@
 
 ---
 
+  <!-- TODO: Insert Portfolio Link-->
   <p align="center"> 
-    If you want to know more about me or my work, check out the links below: 
+    If you want to know more about me or my work, check out my <a href="#">portfolio</a> or any of the links below: 
   </p>
   
   <p align="center">
