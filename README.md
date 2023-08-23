@@ -349,9 +349,9 @@
 
 ---
 
-  <!-- TODO: Insert Portfolio Link-->
+  <!-- TODO: Insert Portfolio Web and GitHub Repo Link-->
   <p align="center"> 
-    If you want to know more about me or my work, check out my <a href="#">portfolio</a> or any of the links below: 
+    If you want to know more about me or my work, check out my <a href="#">portfolio</a> (<a href="#">:octocat: repo</a>) or any of the links below: 
   </p>
   
   <p align="center">
