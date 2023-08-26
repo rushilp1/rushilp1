@@ -203,53 +203,77 @@
     </h1>
   </summary>
 
+  <details open>
+    <summary>
+      <h2>
+          FreeCodeCamp -- Machine Learning With Python
+      </h2>
+    </summary>
+
   <p align="center">
     <img src="./Images/FCC_MachineLearningWithPython_Certificate.png" 
          alt="Certificate awarded after completing FreeCodeCamp's Machine Learning Course!" 
-         width="32%">
-    &nbsp;
-    <img src="./Images/FCC_DataAnalysisWithPython_Certificate.png" 
-         alt="Certificate awarded after completing FreeCodeCamp's Data Analysis Course!" 
-         width="32%">
-    &nbsp;
-    <img src="./Images/FCC_DataVisualization_Certificate.png" 
-         alt="Certificate awarded after completing FreeCodeCamp's Data Visualization Course!" 
-         width="32%">
-  </p>
-  
-  <p align="center">
+         width="100%">
     <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
            alt="FreeCodeCamp Certification URL for FreeCodeCamp's Machine Learning Course!"
-           width="20%">
+           width="60%">
     </a>
     <a href="https://github.com/rushilp1/FreeCodeCamp-MachineLearningWithPython-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Machine Learning Course!" 
-           width="13%">
+           width="39%">
     </a>
+  </p>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>
+          FreeCodeCamp -- Data Analysis With Python
+      </h2>
+    </summary>
+  
+  <p align="center">
+    <img src="./Images/FCC_DataAnalysisWithPython_Certificate.png" 
+         alt="Certificate awarded after completing FreeCodeCamp's Data Analysis Course!" 
+         width="100%">
     <a href="https://freecodecamp.org/certification/RushilPatel/data-analysis-with-python-v7">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
            alt="FreeCodeCamp Certification URL for FreeCodeCamp's Data Analysis Course!"
-           width="20%">
+           width="60%">
     </a>
     <a href="https://github.com/rushilp1/FreeCodeCamp-DataAnalysisWithPython-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Analysis Course!" 
-           width="13%">
+           width="39%">
     </a>
+  </p>
+  </details>
+
+  <details open>
+    <summary>
+      <h2>
+          FreeCodeCamp -- Data Visualization
+      </h2>
+    </summary>
+  
+  <p align="center">
+    <img src="./Images/FCC_DataVisualization_Certificate.png" 
+         alt="Certificate awarded after completing FreeCodeCamp's Data Visualization Course!" 
+         width="100%">
     <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
            alt="FreeCodeCamp Certification URL for FreeCodeCamp's Data Visualization Course!"
-           width="20%">
+           width="60%">
     </a>
     <a href="https://github.com/rushilp1/FreeCodeCamp-DataVisualization-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Visualization Course!" 
-           width="13%">
+           width="39%">
     </a>
   </p>
-  
+  </details>
 </details>
 
 ---
