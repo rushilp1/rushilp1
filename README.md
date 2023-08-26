@@ -1,5 +1,5 @@
 <!-- SECTION: Introduction -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Introduction">
@@ -22,7 +22,7 @@
 ---
 
 <!-- SECTION: About Me -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="About">
@@ -44,7 +44,7 @@
 ---
 
 <!-- SECTION: Work Experiences -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Experience">
@@ -54,21 +54,21 @@
   </summary>
 
   <!-- SUB-SECTION: Experience 1 -->
-  <details>
+  <details open>
     <summary>
       <table align="center">
         <tr>
-          <th><h2> &nbsp; Full-Stack Developer &nbsp; </h2></th>
+          <th><h2>Full-Stack Developer</h2></th>
           <th>
-            <h2> &nbsp; 
+            <h2>
               <a id="LogicalLoop"
                  href="https://logicalloop.com">
                 Logical Loop
-              </a> &nbsp; 
+              </a>
             </h2>
           </th>
-          <th><h2> &nbsp; Surat, India &nbsp; </h2></th>
-          <th><h2> &nbsp; October 2021 - July 2022 &nbsp; </h2></th>
+          <th><h2>Surat, India</h2></th>
+          <th><h2>October 2021 - July 2022</h2></th>
         </tr>
       </table>
     </summary>
@@ -106,7 +106,7 @@
 ---
 
 <!-- SECTION: Projects -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Projects">
@@ -116,7 +116,7 @@
   </summary>
 
   <!-- SUB-SECTION: Project 1 -->
-  <details>
+  <details open>
     <summary>
       <h2>TwittEr: Twitter in Erlang</h2>
     </summary>
@@ -141,7 +141,7 @@
   </details>
 
   <!-- SUB-SECTION: Project 2 -->
-  <details>
+  <details open>
     <summary>
       <h2>MinEr: Miner in Erlang</h2>
     </summary>
@@ -166,7 +166,7 @@
   </details>
 
   <!-- SUB-SECTION: Project 3 -->
-  <details>
+  <details open>
     <summary>
       <h2>A.M.P: Audio Manipulation Program</h2>
     </summary>
@@ -194,7 +194,7 @@
 ---
 
 <!-- SECTION: Certifications -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Certificates">
@@ -217,7 +217,6 @@
          width="32%">
   </p>
   
-  <!-- TODO: Insert Repo Links in GitHub Images-->
   <p align="center">
     <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
@@ -225,7 +224,7 @@
            width="19%">
     </a>
     &nbsp;
-    <a href="#">
+    <a href="https://github.com/rushilp1/FreeCodeCamp-MachineLearningWithPython-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Machine Learning Course!" 
            width="12%">
@@ -237,7 +236,7 @@
            width="19%">
     </a>
     &nbsp;
-    <a href="#">
+    <a href="https://github.com/rushilp1/FreeCodeCamp-DataAnalysisWithPython-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Analysis Course!" 
            width="12%">
@@ -245,11 +244,11 @@
     &nbsp;
     <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
-           alt="FreeCodeCamp Certification URL for FreeCodeCamp's Machine Learning Course!"
+           alt="FreeCodeCamp Certification URL for FreeCodeCamp's Data Visualization Course!"
            width="19%">
     </a>
     &nbsp;
-    <a href="#">
+    <a href="https://github.com/rushilp1/FreeCodeCamp-DataVisualization-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Visualization Course!" 
            width="12%">
@@ -261,7 +260,7 @@
 ---
 
 <!-- SECTION: Tools & Technologies -->
-<details>
+<details open>
   <summary>
     <h1>
       <a id="Technologies">
@@ -351,9 +350,8 @@
 
 ---
 
-  <!-- TODO: Insert Portfolio Web and GitHub Repo Link-->
   <p align="center"> 
-    If you want to know more about me or my work, check out my <a href="#">portfolio</a> (<a href="#">:octocat: repo</a>) or any of the following links: 
+    If you want to know more about me or my work, check out my <a href="https://rushilp1.github.io">portfolio</a> (<a href="https://github.com/rushilp1/rushilp1.github.io">:octocat: repo</a>) or any of the following links: 
   </p>
   
   <p align="center">
