@@ -58,17 +58,17 @@
     <summary>
       <table align="center">
         <tr>
-          <th><h2>Full-Stack Developer</h2></th>
+          <th><h3>Full-Stack Developer</h3></th>
           <th>
-            <h2>
+            <h3>
               <a id="LogicalLoop"
                  href="https://logicalloop.com">
                 Logical Loop
               </a>
-            </h2>
+            </h3>
           </th>
-          <th><h2>Surat, India</h2></th>
-          <th><h2>October 2021 - July 2022</h2></th>
+          <th><h3>Surat, India</h3></th>
+          <th><h3>October 2021 - July 2022</h3></th>
         </tr>
       </table>
     </summary>
