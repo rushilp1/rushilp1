@@ -221,32 +221,32 @@
     <a href="https://freecodecamp.org/certification/RushilPatel/machine-learning-with-python-v7">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
            alt="FreeCodeCamp Certification URL for FreeCodeCamp's Machine Learning Course!"
-           width="19%">
+           width="20%">
     </a>
     <a href="https://github.com/rushilp1/FreeCodeCamp-MachineLearningWithPython-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Machine Learning Course!" 
-           width="12%">
+           width="13%">
     </a>
     <a href="https://freecodecamp.org/certification/RushilPatel/data-analysis-with-python-v7">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
            alt="FreeCodeCamp Certification URL for FreeCodeCamp's Data Analysis Course!"
-           width="19%">
+           width="20%">
     </a>
     <a href="https://github.com/rushilp1/FreeCodeCamp-DataAnalysisWithPython-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Analysis Course!" 
-           width="12%">
+           width="13%">
     </a>
     <a href="https://freecodecamp.org/certification/RushilPatel/data-visualization">
       <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" 
            alt="FreeCodeCamp Certification URL for FreeCodeCamp's Data Visualization Course!"
-           width="19%">
+           width="20%">
     </a>
     <a href="https://github.com/rushilp1/FreeCodeCamp-DataVisualization-Projects">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
            alt="The Coursework Repository URL for FreeCodeCamp's Data Visualization Course!" 
-           width="12%">
+           width="13%">
     </a>
   </p>
   
